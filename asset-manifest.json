@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c5e19a1c.css",
-    "main.js": "/react-gh-pages/static/js/main.e24f2a56.js",
-    "static/js/787.447a0314.chunk.js": "/react-gh-pages/static/js/787.447a0314.chunk.js",
-    "static/media/bank.png": "/react-gh-pages/static/media/bank.d44c5c01dbeadf07d5a4.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c5e19a1c.css.map": "/react-gh-pages/static/css/main.c5e19a1c.css.map",
-    "main.e24f2a56.js.map": "/react-gh-pages/static/js/main.e24f2a56.js.map",
-    "787.447a0314.chunk.js.map": "/react-gh-pages/static/js/787.447a0314.chunk.js.map"
+    "main.css": "/reactbank/static/css/main.c5e19a1c.css",
+    "main.js": "/reactbank/static/js/main.a8f4d908.js",
+    "static/js/787.447a0314.chunk.js": "/reactbank/static/js/787.447a0314.chunk.js",
+    "static/media/bank.png": "/reactbank/static/media/bank.d44c5c01dbeadf07d5a4.png",
+    "index.html": "/reactbank/index.html",
+    "main.c5e19a1c.css.map": "/reactbank/static/css/main.c5e19a1c.css.map",
+    "main.a8f4d908.js.map": "/reactbank/static/js/main.a8f4d908.js.map",
+    "787.447a0314.chunk.js.map": "/reactbank/static/js/787.447a0314.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e19a1c.css",
-    "static/js/main.e24f2a56.js"
+    "static/js/main.a8f4d908.js"
   ]
 }
